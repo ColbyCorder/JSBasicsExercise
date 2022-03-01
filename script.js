@@ -21,7 +21,7 @@ console.log("Hawk" + "Eye");
 console.log("Colby".length + "Corder".length) //11
 
 /* 8 */
-console.log("Avengers Endgame" [15]); //e
+console.log("Avengers: Endgame" [16]); //e
 
 /*BONUS */
 /* 1 */
