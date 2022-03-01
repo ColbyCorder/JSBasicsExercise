@@ -8,7 +8,7 @@ console.log(1 + 2); // 3
 // + , - , * , / , ** , % 
 
 /* 4 */
-console.log(6 % 5); //1
+console.log(5 % 2); //1
 console.log(5 % 4); //1
 
 /* 5 */
